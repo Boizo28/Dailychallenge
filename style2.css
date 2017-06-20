@@ -1,8 +1,8 @@
 /* style2.css */
 
 body{
-  background: #FEFEFE;
-  color: #FEFEFE; 
+  background: #pink;
+  color: #41A3C0; 
   font-size: 16px;
   font-family: 'Source Sans Pro', sans-serif;
   margin:0;
@@ -29,7 +29,7 @@ h2 {
 }
 
 p{
-  color: #FEFEFE;
+  color: #41A3C0;
 }
 
 a { 
@@ -104,7 +104,7 @@ nav ul {
 }
 
 #logo{
-  color: #fff;
+  color: #41A3C0;
   font-size: 35px;
   font-family: 'Pacifico', cursive;
   float: left;
